@@ -18,13 +18,13 @@
 .right-eyebrow {
   transform: rotate(100deg);
   transform-origin: 156px 82px;
-  transition: all .5 linear;
+  transition: all .5s linear;
 }
 
-.smile:hover .left-eyebrow {
+.smiley:hover .left-eyebrow {
   transform: rotate(100deg);
 }
 
-.smile:hover .right-eyebrow {
+.smiley:hover .right-eyebrow {
   transform: rotate(80deg);
 }
