@@ -8,3 +8,11 @@
   stroke-width: 6px;
   stroke-linecap: round;
 }
+
+.left-eyebrow {
+  transform: rotate(80deg);
+}
+
+.right-eyebrow {
+  transform: rotate(100deg);
+}
